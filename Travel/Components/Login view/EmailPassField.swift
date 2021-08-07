@@ -26,8 +26,6 @@ struct EmailPassField: View {
         
         TextField("Email", text: $email)
             .font(.headline)
-            .autocapitalization(.none)
-            .disableAutocorrection(true)
             .keyboardType(.emailAddress)
             .textContentType(.emailAddress)
             .submitLabel(.next)
@@ -43,14 +41,10 @@ struct EmailPassField: View {
         ZStack(alignment: .trailing) {
             if showPassword {
                 TextField("Password", text: $password)
-                    .autocapitalization(.none)
-                    .disableAutocorrection(true)
                     .textContentType(.password)
                     .glassStyle()
             } else {
                 SecureField("Password", text: $password)
-                    .autocapitalization(.none)
-                    .disableAutocorrection(true)
                     .textContentType(.password)
                     .glassStyle()
             }
@@ -66,6 +60,8 @@ struct EmailPassField: View {
                     .opacity(0.8)
             }
         }
+        .autocapitalization(.none)
+        .disableAutocorrection(true)
     }
 }
 
