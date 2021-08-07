@@ -61,11 +61,13 @@ struct LoginView: View {
                                 showViews: $isShowingViews
                             )
                             
-                            Button("Forget password?") {
-                                withAnimation {
-                                    isShowingForgetPassword = true
-                                }
-                            }.foregroundColor(.white)
+                            if isShowingSignIn {
+                                Button("Forget password?") {
+                                    withAnimation {
+                                        isShowingForgetPassword = true
+                                    }
+                                }.foregroundColor(.white)
+                            }
                         }
                         .transition(.opacity)
                         .opacity(isShowingViews ? 1 : 0)
