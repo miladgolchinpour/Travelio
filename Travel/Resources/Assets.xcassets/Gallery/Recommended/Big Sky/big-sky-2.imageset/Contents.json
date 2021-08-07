@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "beneminger-Instagram-1559-ig-17915714473404475.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

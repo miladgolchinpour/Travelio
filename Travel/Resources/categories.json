@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Nature",
+        "icon": "leaf",
+        "color": "indigo",
+        "items": [
+            {
+                "id": "605e824c-dbb4-49b2-977f-a67462092d8e",
+                "name": "Bora Bora",
+                "country": "French Polynesia",
+                "rate": 4.4,
+                "description": "What this small French Polynesian island may lack in size it makes up for in sheer tropical beauty. Here, you'll find picturesque beaches, lush jungles and luxurious resorts. The island's dormant volcano, Mount Otemanu, makes for a great photo-op or challenging hike, and the friendly Bora Bora locals can help you catch a glimpse of the island's best sights during an off-road excursion. To relax, head to Matira Beach for crystal-clear water and soft sand. Although a trip to Bora Bora is very expensive, most travelers say it's worth every penny."
+            },
+            {
+                "id": "8e9fa917-b89e-4495-845b-a57b764afebb",
+                "name": "Glacier National Park",
+                "country": "United States",
+                "rate": 3.7,
+                "description": "Snow-capped peaks and azure lakes are just two reasons why Glacier National Park is one of America's most striking parks. There are more than 700 miles of hiking trails in this Montana park, plus 13 designated areas for camping. In winter, travelers can enjoy snowshoeing and skiing, while summer is when vacationers can go swimming and whitewater rafting, among other popular activities. For those who'd rather admire their surroundings from their car, a scenic drive along Going-to-the-Sun Road can't be missed."
+            },
+            {
+                "id": "b7399deb-a516-4bfb-8381-13e41bb52d9f",
+                "name": "Maui",
+                "country": "Hawaii",
+                "rate": 4.8,
+                "description": "Whether you're driving along the Road to Hana, enjoying a bird's-eye view of the lush coastline from a helicopter, snorkeling with sea turtles or simply relaxing on the Hawaiian island's honey- or black-colored beaches, you'll find that Maui is unlike any other tropical destination. Don't miss a chance to visit Haleakala National Park, which is home to the world's largest dormant volcano. You should also attend a luau for a dose of local culture and a taste of Hawaiian specialties like poi, poke and mahimahi."
+            },
+            {
+                "id": "5a0e8389-311f-4bb4-a835-77e51e671fbd",
+                "name": "South Island",
+                "country": "New Zealand",
+                "rate": 4.9,
+                "description": "New Zealand's South Island brims with majestic landscapes at every turn, from dramatic mountains to fjords to glaciers. Here, you can admire the mountains of Fiordland National Park, a UNESCO World Heritage Site, from hiking trails or a boat on Milford Sound. At night, journey to the University of Canterbury's Mount John Observatory to gaze at the starry skies. You can also indulge your inner daredevil in Queenstown, explore two of the most accessible glaciers in the world on the island's west coast or sample delicious food and wine in the Marlborough region."
+            },
+            {
+                "id": "7dba43d1-1139-4428-a485-9126d6f8a345",
+                "name": "St. Lucia",
+                "country": "St. Lucia",
+                "rate": 3.2,
+                "description": "Dotted with luxurious boutique hotels, this Caribbean destination is tailor-made for lovebirds and adrenaline junkies. Those in search of relaxation will find it on the island's unspoiled shorelines (specifically Reduit Beach and Anse Chastanet). Meanwhile, adventure seekers can test their limits climbing the Pitons or zip lining through the Chassin region's rainforest. The dry season, December to April, is the most popular (and expensive) time to visit, but budget-conscious travelers can find superb weather and cheaper room rates if they arrive in May or June."
+            }
+        ]
+    },
+    {
+        "name": "Hotels",
+        "icon": "building",
+        "color": "blue",
+        "items": [
+            {
+                "id": "6c339374-a8e1-4f28-a7a7-8b8480511617",
+                "name": "Barcelona",
+                "country": "Spain",
+                "rate": 4.5,
+                "description": "This Spanish city is a feast for the eyes: Visitors can walk past medieval architecture in the Barri Gòtic, snap photos of the intricate Basilica de la Sagrada Família and marvel at Antoni Gaudí's whimsical creations in Park Güell. La Barceloneta beach and the Parc de la Ciutadella are perfect places to pass the time on a sunny day before checking out the restaurants and bars along Las Ramblas, which buzzes at all hours of the night. For travelers who want to see Barcelona from above, trek up Mount Tibidabo or to the Bunkers del Carmel."
+            },
+            {
+                "id": "99a268bf-a3d6-4c8a-9744-2c5a6b676a4c",
+                "name": "New York City",
+                "country": "United States",
+                "rate": 4.3,
+                "description": "New York City hosts infinite urban adventures: You can wander through Central Park, tour art exhibits at the Met, catch a Broadway show or peruse SoHo's stylish boutiques. At night, admire Manhattan's glittering skyscrapers from the top of the Empire State Building or the rooftop bar of a trendy boutique hotel. Foodies will also appreciate the Big Apple's endless restaurant options. If you want to sample a bit of everything, consider signing up for a food tour."
+            },
+            {
+                "id": "ab66669d-4e6b-4de5-b4bc-438b2e00c017",
+                "name": "Rome",
+                "country": "Italy",
+                "rate": 4.6,
+                "description": "When you visit the Eternal City, prepare to cross a few must-see attractions – including the Colosseum, the Trevi Fountain and the Pantheon – off of your bucket list. Additional treasures, such as St. Peter's Basilica and the Sistine Chapel, can be found in nearby Vatican City. Escape the tourist crowds by taking a twilight stroll along the cobblestone streets of Trastevere, or head to Mercato Centrale Roma to sample local delicacies like gelato and pizza. Before leaving, peruse some of Rome's lesser-known museums, art galleries and boutiques."
+            },
+            {
+                "id": "43996ede-a713-4500-9750-0f0094e52c18",
+                "name": "Sydney",
+                "country": "Austarila",
+                "rate": 4.8,
+                "description": "Sydney offers more than just a dizzying array of landmarks, such as the Sydney Opera House, Mrs. Macquarie's Chair and the Sydney Harbour Bridge. This Australian city boasts a warm, sunny climate that is ideal for relaxing or surfing at world-renowned beaches like Coogee, Bondi and Manly. Sydney also offers a long list of seasonal events, including concerts and food festivals. No visit would be complete without visiting museums like the Hyde Park Barracks Museum and the Australian Museum to get an overview of the city's history and culture."
+            },
+            {
+                "id": "0e342337-02df-4c85-bf8e-41c2c5fa0ac8",
+                "name": "Tokyo",
+                "country": "Japan",
+                "rate": 4.9,
+                "description": "Simply setting foot in Japan's cosmopolitan capital is an experience within itself. A city known for its bustling streets and flashing neon signs, Tokyo has an electric energy and plenty of attractions to discover. Foodies won't be let down by the city's fresh sushi and hearty ramen. Budding photographers and adrenaline junkies will love taking in the sweeping panoramas from the top of the Tokyo Skytree. Shopaholics will find plenty of must-have designer products in Ginza. And for history buffs, Tokyo offers centuries-old temples and shrines to explore."
+            }
+        ]
+    },
+    {
+        "name": "Events",
+        "icon": "globe.americas",
+        "color": "teal",
+        "items": [
+            {
+                "id": "03111b8f-b0cf-4358-a23b-b3f49f4e5afe",
+                "name": "Dubai",
+                "country": "UEA",
+                "rate": 3.8,
+                "description": "Stunning Persian Gulf views, heart-pumping activities and historical landmarks await you in Dubai. This Middle Eastern city is filled with some of the world's most notable and unique attractions, including the Burj Khalifa, the Dubai Mall and indoor Ski Dubai. But the city still holds onto its heritage, as seen in the Bastakiya Quarter and the traditional Gold and Spice souks. When you need a break from the hustle and bustle of the city, head to a sandy shore like Jumeirah Beach, Sunset Beach or Al Mamzar Beach Park."
+            },
+            {
+                "id": "b78c636e-522b-4af5-a620-02c00b97b3a8",
+                "name": "London",
+                "country": "England",
+                "rate": 4.2,
+                "description": "London is a world unto itself. The eclectic neighborhoods, which are home to a blend of historical landmarks and modern-day attractions, can keep you occupied for days. If it's your first time in London, plan to visit the Tower of London, Tate Modern, Buckingham Palace or the British Museum before sitting down to a classic afternoon tea. The best time to travel to London is during the warmer months, but be warned that this is also the busiest and most expensive time of year."
+            },
+            {
+                "id": "61f64a50-9019-4a6b-b9d5-5dcaf6cdaa56",
+                "name": "Paris",
+                "country": "France",
+                "rate": 4.8,
+                "description": "The magnetic City of Light draws visitors from around the globe who come to see iconic attractions like the Eiffel Tower, the Louvre and the Arc de Triomphe. But what travelers really fall in love with are the city's quaint cafes, vibrant markets, trendy shopping districts and unmistakable je ne sais quoi charm. Get lost wandering along Paris' cobblestone streets, or grab a croissant and relax on the banks of the Seine for hours. If you're up for a quick daytrip, head about 15 miles southwest of the city center to another must-see attraction: the Palace of Versailles."
+            },
+            {
+                "id": "c888d172-e6a9-44ca-a19f-b3c3def33767",
+                "name": "Phuket",
+                "country": "Thailand",
+                "rate": 4.4,
+                "description": "Located in southern Thailand, Phuket offers something for everyone, especially budget-minded travelers. Activities like spa treatments and boat tours come with low price tags, as do accommodations. For stunning scenery, check out the limestone cliffs of Phang Nga Bay and lounge on Phuket's gorgeous white sand beaches (Freedom Beach and Bangtao Beach are two visitor favorites). Other must-sees include Wat Chalong Temple and the Big Buddha. Once the sun sets, take part in the island's lively nightlife scene."
+            },
+            {
+                "id": "b3afa6fe-0d63-4ffc-a3f6-896438fedf30",
+                "name": "Santorini",
+                "country": "Greek",
+                "rate": 4.5,
+                "description": "Frequently touted as a top honeymoon destination, this Greek isle woos newlyweds every year with its breathtaking sunsets, pastel-hued villages and colorful beaches. Archaeological sites, such as Ancient Thira and Ancient Akrotiri, beckon to history buffs, while central Santorini's winery tours lure oenophiles. Active travelers will enjoy hiking along the rim of the caldera to witness breathtaking views of the island. For a relaxing daytrip, hop on a boat to Thirassia, then head to Amoudi Bay to watch the sun set while dining alfresco."
+            }
+        ]
+    },
+    {
+        "name": "Camping",
+        "icon": "flame",
+        "color": "pink",
+        "items": [
+            {
+                "id": "316fd611-31ec-48e2-bd6e-b3ecb6630931",
+                "name": "Bali",
+                "country": "Indonesia",
+                "rate": 3.9,
+                "description": "Serene temples and beautiful beaches are the biggest draws to this lush Indonesian paradise. And we do mean lush – the region's notoriously soggy wet season is best avoided by planning a visit between April and October. Break up your beach time with a visit to the village of Kintamani, home to a towering (and active) volcano, as well as a large lake. If you're craving an adrenaline rush, rent a scooter and zip around the island, or hop on one of Bali's many swings to soar above rice terraces and jungles."
+            },
+            {
+                "id": "e063f5da-b27b-4d61-aa66-79deee0aeb58",
+                "name": "Banff",
+                "country": "Canada",
+                "rate": 4.1,
+                "description": "An Alberta town full of acclaimed restaurants, breweries, boutiques and art galleries, Banff makes for an exciting vacation in every season. Vacationers can spend their days hiking, relaxing in hot springs and boating on the lakes. Banff's location within the Canadian Rockies also makes it easy for visitors to access Banff National Park, which boasts some of the world's most beautiful vistas. Inside the park, travelers can admire sweeping views of the Bow Valley from the Banff Gondola or while schussing the slopes at the park's three ski resorts."
+            },
+            {
+                "id": "c2db601f-80e1-46ce-9ed8-21c98a1cf74c",
+                "name": "Maldives",
+                "country": "Maldives",
+                "rate": 4.7,
+                "description": "It is not cheap or easy to reach, but this isolated paradise between the Arabian and Laccadive seas is the personification of a dreamy tropical vacation. In this South Asian destination, which is made up of more than 1,000 islands, thatched-roof bungalows sit above crystal-clear aquamarine waters, providing easy water access and a romantic atmosphere. Fill your days with beach trips, spa treatments and snorkeling or scuba diving excursions. If cabin fever sets in, pay a visit to the capital, Malé, where you'll find historic mosques and open-air markets."
+            },
+            {
+                "id": "53f77b6e-c906-4a94-8a96-3b814181ca69",
+                "name": "Tahiti",
+                "country": "French Polynesia",
+                "rate": 4.6,
+                "description": "Travel to this island – the largest in French Polynesia – if you've been dreaming of a vacation spent lazing in a lavish overwater bungalow. Beyond the posh resorts, Tahiti boasts black sand beaches, a bustling capital and prime snorkeling and surfing conditions. If you're looking for more cultural experiences, check out some of the island's ancient temples or shop at its traditional covered markets. To save money, opt to stay in a vacation rental. "
+            },
+            {
+                "id": "68e53396-bb4d-40d9-993a-131017150fbe",
+                "name": "Yosemite",
+                "country": "United States",
+                "rate": 4.5,
+                "description": "Year after year, millions of visitors travel to California's Yosemite National Park to stand in awe of natural wonders like Half Dome and Yosemite Falls. Take in the panoramic views from the Glacier Point and Tunnel View overlooks. Hit the hiking trails early in the day to avoid crowds looking for the perfect photo-op. If you're eager to learn more about the park, visit educational centers like the Yosemite Museum and the Indian Village of the Ahwahnee. To save money, skip the hotel and camp out for the full experience (just be sure to book your spot well in advance)."
+            }
+        ]
+    }
+]

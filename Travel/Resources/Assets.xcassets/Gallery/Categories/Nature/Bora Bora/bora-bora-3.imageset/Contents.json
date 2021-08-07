@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "DL2A_Four_Seasons_Bora_Bora_20.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
