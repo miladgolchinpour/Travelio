@@ -1,4 +1,5 @@
-# Travelio
+# Travelio [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20project&url=https://github.com/miladgolchinpour/Travelio)
+
 Travel guide app using Firebase database and Auth Services\
 Easily checkout places and see traveler reviews and image gallery\
 I focused on working with database and json files in this project\
